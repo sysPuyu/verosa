@@ -14,6 +14,9 @@
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | [randommcsomethin](https://modrinth.com/user/randommcsomethin) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Iris Shaders](https://modrinth.com/mod/iris) | [coderbot](https://modrinth.com/user/coderbot) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Signed Paintings](https://modrinth.com/mod/signed-paintings) | [Nettakrim](https://modrinth.com/user/Nettakrim) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Smoke Signals](https://modrinth.com/mod/smoke-signals) | [boyonk](https://modrinth.com/user/boyonk) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) | [Rynnavinx](https://modrinth.com/user/Rynnavinx) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Atmosphere
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -21,6 +24,8 @@
 | [Foggy Pale Garden](https://modrinth.com/mod/foggypalegarden) | [NaoCraftLab](https://modrinth.com/user/NaoCraftLab) |  |  |  | &nbsp;&nbsp;✅ |
 | [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower) | [NikitaCartes](https://modrinth.com/user/NikitaCartes) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Dense Flowers](https://modrinth.com/mod/dense-flowers) | [ToBinio](https://modrinth.com/user/ToBinio) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Visuality](https://modrinth.com/mod/visuality) | [PinkGoosik](https://modrinth.com/user/PinkGoosik) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [cat_jam](https://modrinth.com/mod/cat_jam) | [shmove](https://modrinth.com/user/shmove) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Functional
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -41,6 +46,12 @@
 | [Minepedia](https://modrinth.com/mod/minepedia) | [Minehendrix](https://modrinth.com/user/Minehendrix) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | [Terraformers](https://modrinth.com/organization/terraformers) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [More Chat History](https://modrinth.com/mod/morechathistory) | [JackFred](https://modrinth.com/user/JackFred) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Peek](https://modrinth.com/mod/peek) | [henkelmax](https://modrinth.com/user/henkelmax) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Raised](https://modrinth.com/mod/raised) | [yurisuika](https://modrinth.com/user/yurisuika) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Resourcify](https://modrinth.com/mod/resourcify) | [DeDiamondPro](https://modrinth.com/user/DeDiamondPro) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Scribble](https://modrinth.com/mod/scribble) | [chrrs](https://modrinth.com/user/chrrs) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Sprint Indicator](https://modrinth.com/mod/sprint-indicator) | [Roundaround](https://modrinth.com/user/Roundaround) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Zoomify](https://modrinth.com/mod/zoomify) | [isxander](https://modrinth.com/user/isxander) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Performance
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -56,6 +67,9 @@
 | [More Culling](https://modrinth.com/mod/moreculling) | [FX](https://modrinth.com/user/FX) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [No Telemetry](https://modrinth.com/mod/no-telemetry) | [kb1000](https://modrinth.com/user/kb1000) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | [Lunade](https://modrinth.com/user/Lunade) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Sodium](https://modrinth.com/mod/sodium) | [jellysquid3](https://modrinth.com/user/jellysquid3) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) | [Traben](https://modrinth.com/user/Traben) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | [Traben](https://modrinth.com/user/Traben) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Libraries
 
@@ -69,6 +83,10 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Collective](https://modrinth.com/mod/collective) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | [modmuss50](https://modrinth.com/user/modmuss50) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [MidnightLib](https://modrinth.com/mod/midnightlib) | [Motschen](https://modrinth.com/user/Motschen) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Polymer](https://modrinth.com/mod/polymer) | [Patbox](https://modrinth.com/user/Patbox) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [TCDCommons API](https://modrinth.com/mod/tcdcommons) | [TheCSDev](https://modrinth.com/user/TheCSDev) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Text Placeholder API](https://modrinth.com/mod/placeholder-api) | [Patbox](https://modrinth.com/user/Patbox) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) | [isxander](https://modrinth.com/user/isxander) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Unsorted Mods
 
