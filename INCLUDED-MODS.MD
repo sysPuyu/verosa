@@ -8,7 +8,7 @@
 ## Pretty
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
-| [Axolotl Buckets](https://modrinth.com/mod/axolotl-buckets) | [Roundaround](https://modrinth.com/user/Roundaround) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Show the color and age of axolotls when in buckets. |
+| [Axolotl Buckets](https://modrinth.com/mod/axolotl-buckets) | [Roundaround](https://modrinth.com/user/Roundaround) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Shaderpack for Minecraft. |
 | [BSL Shaders - Classic](https://modrinth.com/shader/bsl-shaders-classic) | [CaptTatsu](https://modrinth.com/user/CaptTatsu) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Shaderpack for Minecraft. |
 | [Better Snow Coverage](https://modrinth.com/mod/better-snow-coverage) | [ToBinio](https://modrinth.com/user/ToBinio) | &nbsp;&nbsp;✅ |  | &nbsp;&nbsp;✅ | Renders missing snow under various blocks [Client Side Only] |
 
