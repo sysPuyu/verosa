@@ -21,6 +21,8 @@
 | [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | [TheCSDev](https://modrinth.com/user/TheCSDev) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation) | [Ezzenix](https://modrinth.com/user/Ezzenix) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Client Tweaks](https://modrinth.com/mod/client-tweaks) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Cloth Gamerules](https://modrinth.com/mod/cloth-gamerules) | [Estecka](https://modrinth.com/user/Estecka) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Libraries
 
@@ -29,6 +31,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
 |---|---|---|---|---|---|
 | [Balm](https://modrinth.com/mod/balm) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 
 ## Alternative mods
