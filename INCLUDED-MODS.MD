@@ -11,6 +11,7 @@
 | [Axolotl Buckets](https://modrinth.com/mod/axolotl-buckets) | [Roundaround](https://modrinth.com/user/Roundaround) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [BSL Shaders - Classic](https://modrinth.com/shader/bsl-shaders-classic) | [CaptTatsu](https://modrinth.com/user/CaptTatsu) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Better Snow Coverage](https://modrinth.com/mod/better-snow-coverage) | [ToBinio](https://modrinth.com/user/ToBinio) | &nbsp;&nbsp;✅ |  | &nbsp;&nbsp;✅ |
+| [Better Tab](https://modrinth.com/mod/bettertab) | [Fy17](https://modrinth.com/user/Fy17) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Functional
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
