@@ -14,6 +14,8 @@
 | [Better Tab](https://modrinth.com/mod/bettertab) | [Fy17](https://modrinth.com/user/Fy17) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | [dzwdz](https://modrinth.com/user/dzwdz) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Classic Minecraft Icon](https://modrinth.com/mod/classic-minecraft-icon) | [fallen-breath](https://modrinth.com/user/fallen-breath) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Debrand](https://modrinth.com/mod/debrand) | [haykam](https://modrinth.com/user/haykam) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Dense Flowers](https://modrinth.com/mod/dense-flowers) | [ToBinio](https://modrinth.com/user/ToBinio) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Functional
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -23,6 +25,8 @@
 | [Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation) | [Ezzenix](https://modrinth.com/user/Ezzenix) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Cloth Gamerules](https://modrinth.com/mod/cloth-gamerules) | [Estecka](https://modrinth.com/user/Estecka) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Default Options](https://modrinth.com/mod/default-options) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | [juliand665](https://modrinth.com/user/juliand665) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Libraries
 
@@ -33,7 +37,6 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Balm](https://modrinth.com/mod/balm) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Collective](https://modrinth.com/mod/collective) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
-
 
 ## Unsorted Mods
 
