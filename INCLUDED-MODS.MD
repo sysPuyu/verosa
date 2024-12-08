@@ -3,18 +3,18 @@
 ## Smooth
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
-| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  |  | &nbsp;&nbsp;✅ | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
+| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ |  | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
 
 ## Pretty
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
-| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  |  | &nbsp;&nbsp;✅ | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
+| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ |  | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
 
 
 ## Functional
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
-| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  |  | &nbsp;&nbsp;✅ | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
+| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ |  | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
 
 ## Libraries
 
@@ -22,7 +22,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
-| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  |  | &nbsp;&nbsp;✅ | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
+| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ |  | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
 
 
 ## Alternative mods
