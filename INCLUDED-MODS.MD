@@ -3,7 +3,7 @@
 ## Smooth
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
 |---|---|---|---|---|---|
-| [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ |
+| [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | [ishland](https://modrinth.com/user/ishland) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Pretty
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -32,13 +32,13 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 |---|---|---|---|---|---|
 | [Balm](https://modrinth.com/mod/balm) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Collective](https://modrinth.com/mod/collective) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 
-## Alternative mods
+## Unsorted Mods
 
 Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with yellow arrows `🔀`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
 
-| Name | Author | Alternative for |
+| Name | Author |
 |---|---|---|---|
-| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust/) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the beds render faster |
-| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) | A slightly less compatible custom entity models mod |
+| [Cycle Title Screen Splash](https://modrinth.com/mod/cycle-title-screen-splash) | [Serilum](https://modrinth.com/user/Serilum) |
