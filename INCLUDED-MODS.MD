@@ -2,7 +2,7 @@
 
 ## Smooth
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ |
 
 ## Pretty
