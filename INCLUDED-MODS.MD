@@ -1,7 +1,7 @@
 # Included mods
 
 ## Smooth
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.6 | 1.21.1 | Description |
+| Name | Author | 1.18.2 | 1.20.1 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|---|---|
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✅ |  |  |  |  |  | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Renders Minecraft slower if it is in the background to reduce CPU usage |
