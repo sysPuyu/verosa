@@ -1,19 +1,19 @@
 # Included mods
 
 ## Smooth
-| Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
+| Name | Author | 1.18.2 | 1.20.1 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
 | [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) |  |  |  | &nbsp;&nbsp;✅ | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
 
 ## Pretty
-| Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
+| Name | Author | 1.18.2 | 1.20.1 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
 | [Axolotl Buckets](https://modrinth.com/mod/axolotl-buckets) | [Roundaround](https://modrinth.com/user/Roundaround) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Shaderpack for Minecraft. |
 | [BSL Shaders - Classic](https://modrinth.com/shader/bsl-shaders-classic) | [CaptTatsu](https://modrinth.com/user/CaptTatsu) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Shaderpack for Minecraft. |
 | [Better Snow Coverage](https://modrinth.com/mod/better-snow-coverage) | [ToBinio](https://modrinth.com/user/ToBinio) | &nbsp;&nbsp;✅ |  | &nbsp;&nbsp;✅ | Renders missing snow under various blocks [Client Side Only] |
 
 ## Functional
-| Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
+| Name | Author | 1.18.2 | 1.20.1 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
 | [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI. |
 
@@ -21,7 +21,7 @@
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 | Description |
+| Name | Author | 1.18.2 | 1.20.1 | 1.21.4 | Description |
 |---|---|---|---|---|---|---|
 | [Balm](https://modrinth.com/mod/balm) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 
