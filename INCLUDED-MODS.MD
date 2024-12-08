@@ -1,10 +1,5 @@
 # Included mods
 
-## Smooth
-| Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
-|---|---|---|---|---|---|
-| [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | [ishland](https://modrinth.com/user/ishland) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
-
 ## Pretty
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
 |---|---|---|---|---|---|
@@ -26,7 +21,13 @@
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Cloth Gamerules](https://modrinth.com/mod/cloth-gamerules) | [Estecka](https://modrinth.com/user/Estecka) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Default Options](https://modrinth.com/mod/default-options) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+
+## Performance
+| Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
+|---|---|---|---|---|---|
+| [Entity Culling](https://modrinth.com/mod/entityculling) | [tr7zw](https://modrinth.com/user/tr7zw) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | [juliand665](https://modrinth.com/user/juliand665) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) | [ishland](https://modrinth.com/user/ishland) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Libraries
 
