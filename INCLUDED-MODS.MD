@@ -13,6 +13,7 @@
 | [Debrand](https://modrinth.com/mod/debrand) | [haykam](https://modrinth.com/user/haykam) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | [randommcsomethin](https://modrinth.com/user/randommcsomethin) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Iris Shaders](https://modrinth.com/mod/iris) | [coderbot](https://modrinth.com/user/coderbot) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Model Gap Fix](https://modrinth.com/mod/modelfix) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Atmosphere
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -25,7 +26,7 @@
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
 |---|---|---|---|---|---|
 | [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
-| [Female Gender Mod](https://modrinth.com/mod/female-gender) | [WildfireRomeo](https://modrinth.com/user/WildfireRomeo) |
+| [Female Gender Mod](https://modrinth.com/mod/female-gender) | [WildfireRomeo](https://modrinth.com/user/WildfireRomeo) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | [TheCSDev](https://modrinth.com/user/TheCSDev) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation) | [Ezzenix](https://modrinth.com/user/Ezzenix) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
@@ -37,6 +38,9 @@
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | [LambdAurora](https://modrinth.com/user/LambdAurora) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Lightly](https://modrinth.com/mod/lighty) | [andi-makes](https://modrinth.com/user/andi-makes) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Mica](https://modrinth.com/mod/mica) | [LemonCaramel](https://modrinth.com/user/LemonCaramel) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Minepedia](https://modrinth.com/mod/minepedia) | [Minehendrix](https://modrinth.com/user/Minehendrix) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | [Terraformers](https://modrinth.com/organization/terraformers) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [More Chat History](https://modrinth.com/mod/morechathistory) | [JackFred](https://modrinth.com/user/JackFred) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Performance
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
@@ -49,6 +53,9 @@
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | [RaphiMC](https://modrinth.com/user/RaphiMC) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Ksyxis](https://modrinth.com/mod/ksyxis) | [VidTu](https://modrinth.com/user/VidTu) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Lithium](https://modrinth.com/mod/lithium) | [jellysquid3](https://modrinth.com/user/jellysquid3) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [More Culling](https://modrinth.com/mod/moreculling) | [FX](https://modrinth.com/user/FX) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [No Telemetry](https://modrinth.com/mod/no-telemetry) | [kb1000](https://modrinth.com/user/kb1000) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Particle Tweaks](https://modrinth.com/mod/particle-tweaks) | [Lunade](https://modrinth.com/user/Lunade) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Libraries
 
@@ -61,6 +68,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Collective](https://modrinth.com/mod/collective) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | [modmuss50](https://modrinth.com/user/modmuss50) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [MidnightLib](https://modrinth.com/mod/midnightlib) | [Motschen](https://modrinth.com/user/Motschen) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Unsorted Mods
 
