@@ -44,4 +44,4 @@ Mods that I can't really find a good place for them in the list
 | [Cycle Title Screen Splash](https://modrinth.com/mod/cycle-title-screen-splash) | [Serilum](https://modrinth.com/user/Serilum) |
 
 ## Credits
-Credits to the original idea of the Included Mods [The Fabulously Optimized Team](https://modrinth.com/modpack/fabulously-optimized), Make sure to checkout the [github](https://github.com/Fabulously-Optimized/fabulously-optimized/) as well
+Credits to the original idea and Table design of the Included Mods [The Fabulously Optimized Team](https://modrinth.com/modpack/fabulously-optimized), Make sure to checkout the [github](https://github.com/Fabulously-Optimized/fabulously-optimized/) as well
