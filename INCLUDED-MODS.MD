@@ -16,6 +16,7 @@
 | Name | Author | 1.18.2 | 1.20.1 | 1.20.4 | 1.21.4 |
 |---|---|---|---|---|---|
 | [Areas](https://modrinth.com/mod/areas) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Better Statistics Screen](https://modrinth.com/mod/better-stats) | [TheCSDev](https://modrinth.com/user/TheCSDev) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
 ## Libraries
 
