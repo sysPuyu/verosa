@@ -23,7 +23,7 @@
 |---|---|---|---|---|---|
 | [Foggy Pale Garden](https://modrinth.com/mod/foggypalegarden) | [NaoCraftLab](https://modrinth.com/user/NaoCraftLab) |  |  |  | &nbsp;&nbsp;✅ |
 | [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower) | [NikitaCartes](https://modrinth.com/user/NikitaCartes) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
-| [Dense Flowers](https://modrinth.com/mod/dense-flowers) | [ToBinio](https://modrinth.com/user/ToBinio) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
+| [Dense Flowers](https://modrinth.com/mod/dense-flowers) | [ToBinio](https://modrinth.com/user/ToBinio) |  | &nbsp;&nbsp;✅ |  | &nbsp;&nbsp;✅ |
 | [Visuality](https://modrinth.com/mod/visuality) | [PinkGoosik](https://modrinth.com/user/PinkGoosik) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [cat_jam](https://modrinth.com/mod/cat_jam) | [shmove](https://modrinth.com/user/shmove) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
@@ -39,7 +39,6 @@
 | [Default Options](https://modrinth.com/mod/default-options) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) | [fallen-breath](https://modrinth.com/user/fallen-breath) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Inventory Essentials](https://modrinth.com/mod/inventory-essentials) | [BlayTheNinth](https://modrinth.com/user/BlayTheNinth) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
-| [Keep My Soil Tilled](https://modrinth.com/mod/keep-my-soil-tilled) | [Serilum](https://modrinth.com/user/Serilum) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | [LambdAurora](https://modrinth.com/user/LambdAurora) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Lightly](https://modrinth.com/mod/lighty) | [andi-makes](https://modrinth.com/user/andi-makes) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Mica](https://modrinth.com/mod/mica) | [LemonCaramel](https://modrinth.com/user/LemonCaramel) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
