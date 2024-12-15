@@ -14,7 +14,6 @@
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | [randommcsomethin](https://modrinth.com/user/randommcsomethin) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Iris Shaders](https://modrinth.com/mod/iris) | [coderbot](https://modrinth.com/user/coderbot) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
-| [Signed Paintings](https://modrinth.com/mod/signed-paintings) | [Nettakrim](https://modrinth.com/user/Nettakrim) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Smoke Signals](https://modrinth.com/mod/smoke-signals) | [boyonk](https://modrinth.com/user/boyonk) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 | [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) | [Rynnavinx](https://modrinth.com/user/Rynnavinx) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |
 
